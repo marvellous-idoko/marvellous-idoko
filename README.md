@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## My name is Idoko Chukwuemeka Marvellous
-# A problem solver fron Nigeria, with nodejs as my major tool
-# I'm fascinated about the possibilites of javascript with nodejs
-# I write fullstack applications using the MEAN stack archtechture
-# that is MongoDB, Express.js, Angular and Node.js
-# I have experience working with other languages like Java, R 
-# 🔭 I’m currently working on http://reportkad.com.
+ A problem solver fron Nigeria, with nodejs as my major tool
+ I'm fascinated about the possibilites of javascript with nodejs
+ I write fullstack applications using the MEAN stack archtechture
+ that is MongoDB, Express.js, Angular and Node.js
+ I have experience working with other languages like Java, R 
+ 🔭 I’m currently working on http://reportkad.com.
 
 Here are some projects I have worked on and their description:
 1. insurebeta (https://marvellous-idoko.github.io/insurebeta)
