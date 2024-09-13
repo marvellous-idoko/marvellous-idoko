@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My name is Idoko Chukwuemeka Marvellous
- A problem solver fron Nigeria, with nodejs as my major tool.
+ A problem solver from Nigeria, with nodejs as my major tool.
  I'm fascinated about the possibilites of javascript with nodejs.
  I write fullstack applications using the MEAN stack archtechture.
  that is MongoDB, Express.js, Angular and Node.js.
